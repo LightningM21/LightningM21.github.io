@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#top_pic{
+    float: right;
+    background-color: rgba(220, 20, 60, 0.98);
+    margin: 2em;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    margin: 0;
+}
+#top_text{
+    font-size: 120%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 1em;
+    margin-bottom: 30%;
+}
