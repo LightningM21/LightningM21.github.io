@@ -5,15 +5,26 @@ body{
     float: right;
     background-color: rgba(220, 20, 60, 0.98);
     margin: 2em;
+    position: relative;
+    top: 75px;
 }
 h1{
+    font-size: 130%;
     text-align: center;
     background-color: crimson;
-    margin: 0;
+    position: fixed;
+    top: -2.3%;
+    left: 0%;
+    right: 0%;
+    padding: 2% 29.7% 2% 29.7%;
+    z-index: 1;
+
 }
 #top_text{
     font-size: 120%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     word-spacing: 1em;
     margin-bottom: 30%;
+    position: relative;
+    top: 100px;
 }
