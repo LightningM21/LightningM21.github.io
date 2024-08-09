@@ -3,13 +3,12 @@ body{
 }
 #top_pic{
     float: right;
-    background-color: rgba(220, 20, 60, 0.98);
     margin: 2em;
     position: relative;
     top: 75px;
 }
 h1{
-    font-size:20px;
+    font-size:130%;
     text-align: center;
     background-color: crimson;
     position: fixed;
@@ -20,6 +19,13 @@ h1{
     z-index: 1;
 
 }
+h1:hover{
+   color: white;
+
+}
+h2:hover{
+    color: crimson;
+ }
 #top_text{
     font-size: 120%;
     font-family: Georgia, 'Times New Roman', Times, serif;
