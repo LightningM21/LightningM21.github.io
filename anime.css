@@ -17,10 +17,10 @@ h1{
     right: 0%;
     padding: 2% 29.7% 2% 29.7%;
     z-index: 1;
-
+    color: rgb(61, 61, 61);
 }
 h1:hover{
-   color: white;
+   color: black;
 
 }
 h2:hover{
